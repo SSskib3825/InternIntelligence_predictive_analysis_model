@@ -32,8 +32,7 @@ The following machine learning models were implemented and evaluated:
 - Incorporate additional external factors like weather or promotions.
 - Deploy the model in a real-time forecasting system.
 
-Author
-Shariar Sakib
+
 
 
 ## How to Run the Project
